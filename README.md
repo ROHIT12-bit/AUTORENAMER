@@ -68,10 +68,10 @@ status - Check bot status [FOR ADMINS USE ONLY].
 ## Connect with Me
 
 <p align="center">
-<a href="https://t.me/AshutoshGoswami24">
+<a href="https://t.me/ANIELITETELUGU">
   <img src="https://img.shields.io/badge/-Asʜᴜᴛᴏsʜ Gᴏsᴡᴀᴍɪ 𝟸𝟺 🇮🇳™-0077B5?style=flat&logo=Telegram&logoColor=white"/>
 </a>
-<a href="https://t.me/AshuSupport">
+<a href="https://t.me/anielitechat">
   <img src="https://img.shields.io/badge/-Ashu Support-0077B5?style=flat&logo=Telegram&logoColor=white"/>
 </a>
 </p>
